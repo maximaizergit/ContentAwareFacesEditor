@@ -1,0 +1,23 @@
+{
+  "name": "contentAwareFaces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximaizergit/ContentAwareFacesEditor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximaizergit/ContentAwareFacesEditor/issues"
+  },
+  "homepage": "https://github.com/maximaizergit/ContentAwareFacesEditor#readme",
+  "dependencies": {
+    "regedit": "^5.1.3"
+  }
+}
